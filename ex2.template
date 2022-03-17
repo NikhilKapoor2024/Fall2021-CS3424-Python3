@@ -1,0 +1,7 @@
+This department, [[dept_name]] has a code of [[dept_code]] and [[num_students]] students in it.
+
+It has [[credit_hours]] worth from [[course_start]] to [[course_end]].
+
+The date is [[date]] and the course num is [[course_num]].
+
+Course name: [[course_name]]
